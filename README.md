@@ -1,2 +1,2 @@
-# UserDaoExample
-Simple description
+# warsztat-dao
+Coderslab warsztat UserDao
